@@ -1,4 +1,45 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.broccolly.github.com">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/o-j-smith/">LinkedIn</a>
+  ·
+  <a href="https://www.broccolly.itch.io">Itch</a>
+</p>
+
+## Who am I?
+I am a physicist-turned-games programmer with experience using C++ to a high standard to create game engine functionality and gameplay experiences. I'm currently looking for work in the games industry in engine or gameplay programming roles.
+
+## My Skills
+- C++, Python, C#, SQL, FORTRAN
+- Professional experience working with an in-house game engine
+- Professional training to use Unreal (Blueprint and C++)
+- Hobbyist experience working with Unity, Godot, and Pico-8
+- Broad and deep physics knowledge with experience creating a physics engine for games from scratch
+- Fluency in mathematical methods for games including 3D graphics, quaternions and matrices
+  
+## Qualifications
+
+- Level 7 Games Programming Apprenticeship
+- PhD in Physics (University of Warwick)
+- MPhys Physics (University of Oxford)
+
+## My Professional Projects
+
+| Project | What it is | My Roles |
+| --- | --- | --- |
+| [Nutmeg!](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/)<br><br>(Sumo Digital, to be released 2026) | An 80's nostalgia-filled football management card game | Built a system to create UI elements embedded on 3D objects.<br><br>Managed the data pipeline for players and teams.<br><br>Created the mathematical algorithms that generate match outcomes |
+| [Snake Party](https://mcvuk.com/business-news/from-the-industry-sheffield-wednesday-and-game-developer-sumo-digital-create-a-halftime-hit/)(Sumo Digital) | A project developed for Sheffield Wednesday Football Club inspired by [Snake Pass](https://store.steampowered.com/app/544330/Snake_Pass/) | I wrote a C++ physics engine from scratch to allow complex snake behaviour and interaction with the environment.|
+
+## Other Games I've Made
+| Title | Jam | Info | Source |
+| ----- | --- | ---- | ------ |
+| [Sorting Plant](https://broccolly.itch.io/sorting-plant) | Down2Jam 3 | Solo-developed in Unity in 72 Hours.<br>I saw this as an opportunity to remake 'Pack It In!' (below) using my developed Unity skills. I wrote all the code. Currently working on a post-jam version.<br>Music: [Eira](https://soundcloud.com/eira_music).| [Source](https://github.com/Broccolly/D2JamMar2026) |
+| [Deep Flied Donut](https://broccolly.itch.io/deep-flied-donut) | Ludum Dare 58 | Codeveloped in Godot in 72 hours with my brother.<br>I created unconventional gravity fields using Signed Distance Functions. | [Source](https://github.com/Broccolly/LudumDare58) |
+| [Plumb Bob Rescue](https://ehmtang.itch.io/plumbbob-rescue) | Ludum Dare 57 | Codeveloped in 72 hours in Godot with [Ehmtang](https://github.com/ehmtang/).<br>I wrote the physics code that controlled the rope behaviour. | |
+| [Lift Summoner Deluxe 1997: Kitten Edition](https://broccolly.itch.io/lift-summoner-1997) | Ludum Dare 55 | Codeveloped in 72 hours in [Pico-8](https://www.lexaloffle.com/pico-8.php) with [Ehmtang](https://github.com/ehmtang/). | |
+| [Pack It In!](https://broccolly.itch.io/pack-it-in) | Ludum Dare 53 | Solo developed in 48 hours.<br>Music: [Glass Cannon](https://music.apple.com/us/artist/glass-cannon/1512456924).
+| [Bitstream](https://broccolly.itch.io/bitstream)| Ludum Dare 48 | Solo developed in 48 hours.<br>Didn't finish this one but had fun with 2D shaders. | |
+| [A Troll-y Problem](https://broccolly.itch.io/a-troll-y-problem) | Ludum Dare 46 | Solo developed in 48 hours. Music: [Glass Cannon](https://music.apple.com/us/artist/glass-cannon/1512456924) | |
 
 <!--
 **Broccolly/Broccolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
