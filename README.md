@@ -7,7 +7,7 @@
 - I’m currently looking for work in the games industry in engine or gameplay programming roles.
 
 <p align="center">
-  <a href="https://www.broccolly.github.com">Portfolio</a>
+  <a href="broccolly.github.io">Portfolio</a>
   ·
   <a href="https://www.linkedin.com/in/o-j-smith/">LinkedIn</a>
   ·
