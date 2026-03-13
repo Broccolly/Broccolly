@@ -1,3 +1,11 @@
+
+## Who am I?
+- I am a physicist-turned-games programmer using C++ and other languages to a high standard to create game engine functionality and gameplay experiences.
+- I have industry experience working at Sumo Digital on a soon-to-be shipped [game](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/) across the full development period.
+- I have a PhD in Physics and am able to parse, understand and apply advanced mathematical techniques.
+- I have learnt to use a range of game engines through professional training and game jams.
+- I’m currently looking for work in the games industry in engine or gameplay programming roles.
+
 <p align="center">
   <a href="https://www.broccolly.github.com">Portfolio</a>
   ·
@@ -6,18 +14,12 @@
   <a href="https://www.broccolly.itch.io">Itch</a>
 </p>
 
-## Who am I?
-- I am a physicist-turned-games programmer with experience using C++ and other languages to a high standard to create game engine functionality and gameplay experiences.
-- I have industry experience working at Sumo Digital on a soon-to-be shipped [game](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/) across the full development period.
-- I have a PhD in Physics and am able to parse, understand and apply advanced mathematical techniques.
-- I have learnt to use a range of game engines through professional training and game jams.
-- I’m currently looking for work in the games industry in engine or gameplay programming roles.
-
 ## My Skills
 - Languages : C++, Python, C#, Lua, SQL, FORTRAN
 - Professional experience working with an in-house game engine
 - Professional training in Unreal (Blueprint and C++)
 - Game jam experience with Unity, Godot, and Pico-8
+- Professional experience within Agile projects using Azure DevOps, Jira, git and Perforce.
 - Broad and deep physics knowledge with experience creating a physics engine for games from scratch
 - Fluency in mathematical methods for games including 3D graphics, quaternions and matrices
 - High Performance Computing (HPC) including OpenMP and MPI
