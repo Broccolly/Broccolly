@@ -11,7 +11,7 @@
   ·
   <a href="https://www.linkedin.com/in/o-j-smith/">LinkedIn</a>
   ·
-  <a href="https://www.broccolly.itch.io">Itch</a>
+  <a href="https://broccolly.itch.io">Itch</a>
 </p>
 
 ## My Skills
